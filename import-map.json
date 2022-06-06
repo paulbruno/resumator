@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "date-fns": "https://esm.sh/date-fns",
+    "handlebars": "https://esm.sh/handlebars",
+    "marked": "https://esm.sh/marked",
+    "octokit": "https://esm.sh/octokit",
+    "yaml": "https://esm.sh/yaml"
+  }
+}
